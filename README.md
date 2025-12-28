@@ -56,15 +56,23 @@ I am actively preparing for **Google Summer of Code 2026** by:
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikanta2834&show_icons=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=manikanta2834&show_icons=true&count_private=true&include_all_commits=true&theme=github"
+    width="420"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta2834&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=manikanta2834&theme=github"
+    width="420"
+  />
 </p>
 
 ---
+
 
 ### 📚 Currently Learning
 - Advanced Python  
