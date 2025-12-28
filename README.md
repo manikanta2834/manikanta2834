@@ -36,7 +36,7 @@ I am actively preparing for **Google Summer of Code 2026** by:
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,nodejs,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,nodejs,git,github,linux,docker,vscode&perline=6" />
 </p>
 
 ---
