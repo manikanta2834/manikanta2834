@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-B.Tech CSE (AI & DS) Student • Open Source Enthusiast • GSoC 2026 Aspirant
+B.Tech CSE (AI & DS) Student • Open Source Enthusiast 
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ B.Tech CSE (AI & DS) Student • Open Source Enthusiast • GSoC 2026 Aspirant
 I am a motivated Computer Science undergraduate with a strong interest in  
 **open-source development**, **backend engineering**, and **problem solving**.
 
-I am actively preparing for **Google Summer of Code 2026** by:
+I am actively preparing :
 - learning core CS fundamentals  
 - building real-world projects  
 - contributing consistently on GitHub  
