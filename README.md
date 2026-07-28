@@ -55,21 +55,45 @@ I am actively preparing :
 
 ---
 
-### 📊 GitHub Activity
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D2FF&height=220&section=header&text=Manikanta%20Nalam&fontSize=44&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<h3 align="center">
+🚀 B.Tech CSE (AI & DS) Student • Open Source & Backend Engineer 
+</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=manikanta2834&show_icons=true&count_private=true&include_all_commits=true&theme=github"
-    width="420"
-  />
+  <a href="https://github.com/manikanta2834">
+    <img src="https://komarev.com/ghpvc/?username=manikanta2834&style=for-the-badge&color=0A66C2" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=manikanta2834&theme=github"
-    width="420"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Open+Source+Contributor+%26+GSOC+Aspiring;Backend+%26+Distributed+Systems;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
 </p>
+
+---
+
+### 🏆 3D Contribution & Achievements Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manikanta2834&theme=onedark&column=6&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta2834&theme=react-dark&area=true&hide_border=true" width="95%" alt="3D Activity Graph" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+```yaml
+Bio:
+  Degree: "B.Tech Computer Science (AI & DS)"
+  Focus: "Backend Engineering, Open Source, System Design"
+  Passions: "Building scalable architectures & contributing to global open-source projects"
+  Goals: "GSOC • Open Source Impact • Core CS Mastery"
 
 ---
 
