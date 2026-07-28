@@ -34,7 +34,6 @@ I'm a motivated **Computer Science (AI & Data Science)** undergraduate passionat
 name: Manikanta Nalam
 role: B.Tech CSE (AI & DS) Student
 focus: [Open Source, Backend Engineering, DSA, Distributed Systems]
-currently_learning: [System Design, Advanced DSA]
 goal: Contribute to GSoC / high-impact open-source projects
 fun_fact: I debug better after two cups of coffee ☕
 ```
@@ -48,9 +47,9 @@ fun_fact: I debug better after two cups of coffee ☕
 🚀 **Goals:** GSoC / OSS Contributor
 🏆 **Achievements:** Active OSS Contributor
 📍 **Location:** India
-📧 **Email:** your.email@example.com
-🌐 **Portfolio:** yourportfolio.com
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+📧 **Email:** manikanta172834@gmail.com
+🌐 **Portfolio:** manikanta-navigates-code.lovable.app 
+💼 **LinkedIn:** linkedin.com/in/manikanta-nalam
 
 </td>
 </tr>
