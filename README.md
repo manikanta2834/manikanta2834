@@ -190,7 +190,7 @@ Real-time city data aggregation & analytics.
 <a href="https://linkedin.com/in/manikanta-nalam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/manikanta2834"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:manikanta172834@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://manikanta-navigates-code.lovable.app"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://protfolio-one-lovat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </div>
 
